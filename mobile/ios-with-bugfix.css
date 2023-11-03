@@ -7,7 +7,7 @@ Changing the item-title-height variable should allow the rest of the grid to app
 :root {
   /*defaults--mostly for dev reference*/
   --default-item-tile-height: 80px;
-  --default-grid-column: 180px;
+  --default-grid-column: 100px;
   --default-max-product-title: 100px;
   --default-product-title-text-size: 10px;
   --default-cutoff-background-color: #d1d1d1;
