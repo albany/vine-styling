@@ -8,7 +8,7 @@ Changing the item-title-height variable should allow the rest of the grid to app
   /*defaults--mostly for dev reference*/
   --default-item-tile-height: 70px;
   --default-grid-column: 120px;
-  --default-max-product-title: 150px;
+  --default-max-product-title: 120px;
   --default-product-title-text-size: 10px;
   --default-cutoff-background-color: #d1d1d1;
 
