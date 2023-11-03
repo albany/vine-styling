@@ -33,7 +33,7 @@
 }
 
 #vvp-items-grid .vvp-item-tile .vvp-item-tile-content {
-  width: var(--grid-column-width, 110px) !important;
+  width: var(--grid-column-width, 210px) !important;
 }
 
 #vvp-items-grid .vvp-item-tile .vvp-item-tile-content > * {
