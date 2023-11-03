@@ -27,7 +27,7 @@
 #vvp-items-grid {
   grid-template-columns: repeat(
     auto-fill,
-    minmax(var(--grid-column-width, 110px), auto)
+    minmax(var(--grid-column-width, 210px), auto)
   ) !important;
   margin-bottom: 0px !important;
 }
