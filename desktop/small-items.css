@@ -48,7 +48,7 @@
 .a-tab-content {
   border: none !important;
 }
-
+/*
 .a-button-primary {
   border-radius: 0 !important;
   margin-bottom: 0.5rem !important;
@@ -96,7 +96,7 @@
 .a-button-primary .a-button-inner {
   background-color: transparent;
 }
-
+/*
 #vvp-items-grid
   .vvp-item-tile
   .vvp-item-tile-content
