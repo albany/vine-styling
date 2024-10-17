@@ -19,24 +19,24 @@ https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/
 - in the "Enter URL..." field use: ```https://*.amazon.com/vine*``` (or your vine url if you are not from United States)
 - in the text area below insert the styles that you desire:
 ```
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/small-items.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/remove-header.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/remove-footer.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/remove-associate-header.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/more-description-text.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/etv-modal-on-top.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/categories-with-emojis.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/pagination-on-top.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/collapsable-categories.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/striped-categories.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/limited-quantity-icon.css);
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/rfy-afa-ai-tabs.css);
-@import url(https://vine.nyc3.digitaloceanspaces.com/cutoff.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/small-items.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/remove-header.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/remove-footer.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/remove-associate-header.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/more-description-text.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/etv-modal-on-top.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/categories-with-emojis.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/pagination-on-top.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/collapsable-categories.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/striped-categories.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/limited-quantity-icon.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/rfy-afa-ai-tabs.css);
+
 
 ```
 if you want to use the dark theme, also include:
 ```
-@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/dark-theme.css);
+@import url(https://raw.githubusercontent.com/albany/vine-styling/main/desktop/dark-theme.css);
 ```
 Those are the public styles that we created, if you don't want all of them you can remove the line that represents the functionality that you do not want.
 For example ```@import url(https://raw.githubusercontent.com/Thorvarium/vine-styling/main/desktop/pagination-on-top.css);``` makes the pagination to be on the top of the page, just don't include this line if you dont want that.
